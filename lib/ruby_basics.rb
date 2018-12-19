@@ -17,8 +17,9 @@ message = "#{greeting} #{name}"
 message
 end
 
-def return_a_value(value)
-value
+def return_a_value
+message = "Nice"
+message
 end
 
 def last_evaluated_value
