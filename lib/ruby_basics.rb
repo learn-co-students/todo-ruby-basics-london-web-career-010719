@@ -23,7 +23,8 @@ message
 end
 
 def last_evaluated_value
-
+message = "Nice"
+message
 end
 
 def pizza_party(value="cheese")
