@@ -8,8 +8,8 @@ name = value
 name
 end
 
-def argue
-
+def argue(argument)
+  argument
 end
 
 def greeting
